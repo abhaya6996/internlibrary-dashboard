@@ -1,0 +1,54 @@
+.top{
+    background-color:brown;
+    border: solid red;
+    margin: auto;
+    float: middle;
+    color: pink;
+    padding: 10px;
+    text-align: center;
+}
+.sidenav{
+    background-color:whitesmoke;
+    margin:auto;
+height: 650px;
+width: 250px;
+float: left;
+padding: 50px;
+
+}
+
+
+
+  .flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: white;
+    margin: 100px;
+    padding: 30px;
+    width: 900px;
+    height: 500px;
+    text-align: center;
+}
+  
+  .flex-container div {
+    background-color: red;
+    background-image: linear-gradient(red,blue);
+    margin: 40px;
+    padding: 20px;
+    font-size: larger;
+    height: 200px;
+  }
+
+.a:hover{
+    background-color: red;
+
+}
+
+
+
+
+footer{
+    margin-top: 600px;
+    text-align: center;
+    background-color: aqua ;
+}
